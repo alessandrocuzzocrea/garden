@@ -1,9 +1,9 @@
 ---
 layout: layout.njk
 title: test
-permalink: "/test-post/"
+permalink: "/test3-post/"
 tags: 
   - tag1
 ---
 
-This is a test page
+This is a test page 3
