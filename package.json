@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alessandrocuzzocrea/garden/issues"
   },
-  "homepage": "https://github.com/alessandrocuzzocrea/garden#readme"
+  "homepage": "https://github.com/alessandrocuzzocrea/garden#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
 }
