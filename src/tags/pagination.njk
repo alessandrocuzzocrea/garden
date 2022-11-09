@@ -6,7 +6,8 @@ pagination:
   filter:
     - all
 permalink: /tags/{{ tag }}/
-layout: layout.njk
+layout: main
+eleventyExcludeFromCollections: true
 ---
 <h1>Tagged “{{ tag }}”</h1>
 

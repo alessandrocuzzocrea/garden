@@ -1,5 +1,4 @@
 ---
-layout: layout.njk
 title: test2
 permalink: "/test2-post/"
 tags: 

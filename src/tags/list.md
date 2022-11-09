@@ -1,9 +1,7 @@
 ---
-layout: layout.njk
+layout: main
 title: test
 permalink: "/tags/"
-tags: 
-  - tag1
+eleventyExcludeFromCollections: true
 ---
-
 This is the tag list page.
