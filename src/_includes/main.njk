@@ -1,52 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {% if noindex -%}
-    <meta name="robots" content="noindex">
-    {% else -%}
-    <meta name="robots" content="index, follow">
-    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-    {% endif -%}
-    <title>{{ title or site.title }}</title>
-    {% if codeHighlighting -%}
-    <link href="https://unpkg.com/prismjs@1.29.0/themes/prism-okaidia.min.css" rel="stylesheet">
-    {% endif -%}
-    <style>
-    code {
-        background-color: #272822;
-        color: #f8f8f2;
-        border-radius: 0.3em;
-        padding: 4px 5px 6px;
-        white-space: nowrap;
-    }
-    </style>
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="/favicon-16x16.png" sizes="16x16" type="image/png">
-    <link rel="icon" href="/favicon-32x32.png" sizes="32x32" type="image/png">
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {% if noindex -%}
+  <meta name="robots" content="noindex">
+  {% else -%}
+  <meta name="robots" content="index, follow">
+  <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+  {% endif -%}
+  <title>{{ title or site.title }}</title>
+  {% if codeHighlighting -%}
+  <link href="https://unpkg.com/prismjs@1.29.0/themes/prism-okaidia.min.css" rel="stylesheet">
+  {% endif -%}
+  <style>
+  code {
+    background-color: #272822;
+    color: #f8f8f2;
+    border-radius: 0.3em;
+    padding: 4px 5px 6px;
+    white-space: nowrap;
+  }
+  </style>
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon-16x16.png" sizes="16x16" type="image/png">
+  <link rel="icon" href="/favicon-32x32.png" sizes="32x32" type="image/png">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 </head>
 <body>
-    <header>
-        <p>
-            <a href="/">Home</a> · 
-            <a href="/tags">Tags</a> · 
-            <a href="https://github.com/alessandrocuzzocrea/garden">Source Code</a>
-        </p>
-    </header>
-    {{ content | safe }}
-    <footer>
-        <hr>
-        <p>
-            <a href="/">Home</a> · 
-            <a href="/tags">Tags</a> · 
-            <a href="https://github.com/alessandrocuzzocrea/garden">Source Code</a>
-        </p>
-        <p>
-            <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work by <a xmlns:cc="https://creativecommons.org/ns#" href="https://alessandrocuzzocrea.com" property="cc:attributionName" rel="cc:attributionURL">Alessandro Cuzzocrea</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-        </p>
-    </footer>
+  <header>
+    <p>
+      <a href="/">Home</a> · 
+      <a href="/tags">Tags</a> · 
+      <a href="https://github.com/alessandrocuzzocrea/garden">Source Code</a>
+    </p>
+  </header>
+  {{ content | safe }}
+  <footer>
+    <hr>
+    <p>
+      <a href="/">Home</a> · 
+      <a href="/tags">Tags</a> · 
+      <a href="https://github.com/alessandrocuzzocrea/garden">Source Code</a>
+    </p>
+    <p>
+      <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work by <a xmlns:cc="https://creativecommons.org/ns#" href="https://alessandrocuzzocrea.com" property="cc:attributionName" rel="cc:attributionURL">Alessandro Cuzzocrea</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+    </p>
+  </footer>
 </body>
 </html>
