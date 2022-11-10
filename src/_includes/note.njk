@@ -1,8 +1,12 @@
 ---
 layout: main.njk
 ---
-This note layout:
 <main>
     <h1>{{ title }}</h1>
+    Tags:
+    {% set comma = joiner() %}
+    {% for tag in tags -%}
+        {{ comma() }} <span class="tag"><a href="/tags/{{ tag }}">{{ tag }}</a></span>
+    {%- endfor %}
     {{ content | safe }}
 </main>
