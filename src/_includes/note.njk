@@ -3,10 +3,15 @@ layout: main.njk
 ---
 <main>
     <h1>{{ title }}</h1>
+    <p>
+      Last updated on: {{ page.date.toUTCString() }}
+    </p>
+    <p>
     Tags:
     {% set comma = joiner() %}
     {% for tag in tags -%}
         {{ comma() }} <span class="tag"><a href="/tags/{{ tag }}">{{ tag }}</a></span>
     {%- endfor %}
+    </p>
     {{ content | safe }}
 </main>
