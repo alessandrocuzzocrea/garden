@@ -4,7 +4,6 @@ permalink: /invisible-ink-book-notes/
 tags: 
   - book
   - storytelling
-date: Last Modified
 ---
 ## Chapter 1
 
