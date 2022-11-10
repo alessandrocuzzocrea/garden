@@ -1,8 +1,10 @@
 ---
-title: 🎄Welcome to my Digital Garden!🎄
+title: 
 layout: main
 eleventyExcludeFromCollections: true
 ---
+<h1>{{ site.title }}</h1>
+<h2>🎄Welcome to my Digital Garden!🎄</h2>
 {%- for note in collections.all | reverse -%}
   <hr>
   <h2><a href="{{ note.data.permalink }}">{{ note.data.title }}</a></h2>
