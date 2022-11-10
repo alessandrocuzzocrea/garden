@@ -5,6 +5,8 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPlugin(syntaxHighlight);
 
+  eleventyConfig.addPassthroughCopy("src/favicon*");
+
   eleventyConfig.addFilter('console', function(value) {
     const str = util.inspect(value);
     return `<div style="white-space: pre-wrap;">${unescape(str)}</div>;`
