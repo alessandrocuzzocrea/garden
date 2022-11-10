@@ -7,7 +7,7 @@ eleventyExcludeFromCollections: true
 <h2>🎄Welcome to my Digital Garden!🎄</h2>
 Recently updated:
 <ul>
-{%- for note in collections.all | reverse -%}
+{%- for note in collections.all | reverse | take(10) -%}
   <li>
     <a href="{{ note.data.permalink }}">{{ note.data.title }}</a> - {{ note.date.toUTCString() }}
   </li>
@@ -15,7 +15,7 @@ Recently updated:
 </ul>
 Popular tags:
 <ul>
-{% for tag in collections.tagsList | tagsSortByCountDesc %}
+{% for tag in collections.tagsList | tagsSortByCount | reverse | take(10) %}
   <li>
     <a href="/tags/{{ tag.name }}">{{ tag.name }} ({{ tag.count }})</a>
   </li>

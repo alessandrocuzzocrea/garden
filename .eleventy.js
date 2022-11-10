@@ -43,9 +43,13 @@ module.exports = function (eleventyConfig) {
     return c;
   });
 
-  eleventyConfig.addNunjucksFilter("tagsSortByCountDesc", function(tags) {
-    tags.sort((a, b) => b.count - a.count);
+  eleventyConfig.addNunjucksFilter("tagsSortByCount", function(tags) {
+    tags.sort((a, b) => a.count - b.count);
     return tags
+  });
+
+  eleventyConfig.addNunjucksFilter("take", function(tags, arg) {
+    return tags.slice(0, arg);
   });
 
   return {
