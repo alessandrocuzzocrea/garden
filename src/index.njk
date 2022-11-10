@@ -8,10 +8,16 @@ eleventyExcludeFromCollections: true
 Recently updated:
 <ul>
 {%- for note in collections.all | reverse -%}
-  {# <hr> #}
   <li>
     <a href="{{ note.data.permalink }}">{{ note.data.title }}</a> - {{ note.date.toUTCString() }}
   </li>
-  {# {{ note.templateContent | safe }} #}
 {%- endfor -%}
-  </ul>
+</ul>
+Popular tags:
+<ul>
+{% for tag in collections.tagsList | tagsSortByCountDesc %}
+  <li>
+    <a href="/tags/{{ tag.name }}">{{ tag.name }} ({{ tag.count }})</a>
+  </li>
+{% endfor %}
+</ul>

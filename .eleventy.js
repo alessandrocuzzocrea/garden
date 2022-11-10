@@ -16,7 +16,7 @@ module.exports = function (eleventyConfig) {
     const tagsList = new Set();
     const tagCount = {}
     collectionApi.getAll().map( item => {
-        if (item.data.tags) { // handle pages that don't have tags
+        if (item.data.tags) {
           item.data.tags.map( tag => {
             tagsList.add(tag)
             tagCount[tag] = (tagCount[tag] || 0) + 1 
@@ -41,6 +41,11 @@ module.exports = function (eleventyConfig) {
       return 0;
     });
     return c;
+  });
+
+  eleventyConfig.addNunjucksFilter("tagsSortByCountDesc", function(tags) {
+    tags.sort((a, b) => b.count - a.count);
+    return tags
   });
 
   return {
