@@ -5,8 +5,13 @@ eleventyExcludeFromCollections: true
 ---
 <h1>{{ site.title }}</h1>
 <h2>🎄Welcome to my Digital Garden!🎄</h2>
+Recently updated:
+<ul>
 {%- for note in collections.all | reverse -%}
-  <hr>
-  <h2><a href="{{ note.data.permalink }}">{{ note.data.title }}</a></h2>
-  {{ note.templateContent | safe }}
+  {# <hr> #}
+  <li>
+    <a href="{{ note.data.permalink }}">{{ note.data.title }}</a> - {{ note.date.toUTCString() }}
+  </li>
+  {# {{ note.templateContent | safe }} #}
 {%- endfor -%}
+  </ul>
