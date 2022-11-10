@@ -13,5 +13,8 @@ layout: main.njk
         {{ comma() }} <span class="tag"><a href="/tags/{{ tag }}">{{ tag }}</a></span>
     {%- endfor %}
     </p>
+    <p>
+      <a href="https://github.com/alessandrocuzzocrea/garden/blob/main/{{ page.inputPath }}">Edit Page</a>
+    </p>
     {{ content | safe }}
 </main>
