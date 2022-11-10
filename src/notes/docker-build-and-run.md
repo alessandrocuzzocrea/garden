@@ -1,6 +1,7 @@
 ---
 title: Docker - Build and Run One-liner
 permalink: /docker-build-and-run/
+codeHighlighting: true
 tags: 
   - docker
   - tech
