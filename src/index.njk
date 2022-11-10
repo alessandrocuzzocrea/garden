@@ -3,8 +3,8 @@ title: 🎄Welcome to my Digital Garden!🎄
 layout: main
 eleventyExcludeFromCollections: true
 ---
-{%- for post in collections.all | reverse -%}
+{%- for note in collections.all | reverse -%}
   <hr>
-  <h2><a href="{{ post.data.permalink }}">{{ post.data.title }}</a></h2>
-  {{ post.templateContent | safe }}
+  <h2><a href="{{ note.data.permalink }}">{{ note.data.title }}</a></h2>
+  {{ note.templateContent | safe }}
 {%- endfor -%}
