@@ -11,8 +11,12 @@ From the path containing the `Dockerfile`:
 docker run --rm $(docker build -q .)
 ```
 
+## Explanation
+
 Add more flags as you need. E.g. `-p 8080:80` to map container's port 80 to host's port 80:
 
 ```shell
 docker run --rm -p 8080:80 $(docker build -q .)
 ```
+
+## References
