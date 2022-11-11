@@ -10,6 +10,7 @@
   <meta name="robots" content="index, follow">
   <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
   {% endif -%}
+  <meta name="generator" content="{{ eleventy.generator }}">
   <title>{{ title or site.title }}</title>
   {% if codeHighlighting -%}
   <link href="https://unpkg.com/prismjs@1.29.0/themes/prism-okaidia.min.css" rel="stylesheet">
