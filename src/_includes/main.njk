@@ -30,6 +30,10 @@
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 </head>
 <body>
+  {% if site.cse %}
+  <script async src="https://cse.google.com/cse.js?cx=06888cfbc14614589"></script>
+  <div class="gcse-search"></div>
+  {% endif %}
   <header>
     <p>
       <a href="/">Home</a> · 
