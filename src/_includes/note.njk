@@ -5,16 +5,14 @@ layout: main.njk
   <article>
     <h1>{{ title }}</h1>
     <p>
-      Last updated on: {{ page.date.toUTCString() }}
-    </p>
-    <p>
     Tags:
     {% set comma = joiner() %}
     {% for tag in tags -%}
-        {{ comma() }} <span class="tag"><a href="/tags/{{ tag }}">{{ tag }}</a></span>
+      {{ comma() }} <span class="tag"><a href="/tags/{{ tag }}">{{ tag }}</a></span>
     {%- endfor %}
     </p>
     <p>
+      Last Updated on <i>{{ page.date.toUTCString() }}</i> - 
       <a href="https://github.com/alessandrocuzzocrea/garden/blob/main/{{ page.inputPath }}">Edit Page</a>
     </p>
     {{ content | safe }}

@@ -9,7 +9,7 @@ Recently updated:
 <ul>
 {%- for note in collections.all | reverse | take(10) -%}
   <li>
-    <a href="{{ note.data.permalink }}">{{ note.data.title }}</a> - {{ note.date.toUTCString() }}
+    <a href="{{ note.data.permalink }}">{{ note.data.title }}</a>
   </li>
 {%- endfor -%}
 </ul>
