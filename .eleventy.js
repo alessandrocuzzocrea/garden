@@ -52,6 +52,11 @@ module.exports = function (eleventyConfig) {
     return tags.slice(0, arg);
   });
 
+  // eleventyConfig.addFilter("excerpt", (post) => {
+  //   const content = post.replace(/(<([^>]+)>)/gi, "");
+  //   return content.substr(0, content.lastIndexOf(" ", 200)) + "...";
+  // });
+
   return {
     dir: {
       input: "src",
