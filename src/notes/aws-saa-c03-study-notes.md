@@ -271,7 +271,7 @@ Take note that if you enable Requester Pays on a bucket, anonymous access to tha
 
 ### Server-Side Encryption with Amazon S3-Managed Keys (SSE-S3) vs Server-Side Encryption with Customer Master Keys (CMKs) Stored in AWS Key Management Service (SSE-KMS) vs Server-Side Encryption with Customer-Provided Keys (SSE-C)
 
-Fuck this shit. I don’t give a damn.
+...
 
 ## S3 Glacier
 
@@ -865,7 +865,7 @@ By **default**, **records** of a stream in Amazon Kinesis **are accessible for u
 
 Amazon Kinesis Data Firehose captures and loads data in near real-time, AWS Lambda can't be set as its destination.
 
-Q: So what’s the fucking difference between Kinesis Data Streams and Kinesis Data Firehose? 
+Q: So what’s the difference between Kinesis Data Streams and Kinesis Data Firehose? 
 
 [Amazon Kinesis](https://tutorialsdojo.com/amazon-kinesis/)
 
