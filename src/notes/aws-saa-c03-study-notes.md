@@ -500,7 +500,7 @@ It does **not** also guarantee that the data will be transmitted in the same ord
 
 It’s like Azure KeyVault.
 
-Lot’s of question about this crap. May as well study some cheat sheets
+There are many questions on this topic. Might as well study some cheatsheets.
 
 ## ⭐️AWS Storage Gateway
 
