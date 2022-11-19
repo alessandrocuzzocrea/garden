@@ -718,7 +718,7 @@ The /32 denotes one IP address and the /0 refers to the entire network.
 ## AWS Transit Gateway
 
 Transit Gateway simply connects your VPC and on-premises networks through a central hub.
-Q: WTF is a central hub?
+Q: What's a 'central hub'?
 
 ## AWS Direct Connect
 
