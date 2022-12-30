@@ -12,7 +12,16 @@ TIC-80 is an open-source fantasy console for creating and sharing small games.
 
 Website: [https://tic80.com](https://tic80.com)
 
-## Useful commands
+## The basics
+
+`function TIC()`
+This function is called 60 times a second.
+
+## Dev Mode
+
+Menu -> ? -> Dev Mode
+
+## Useful **commands**
 
 `folder`
 
