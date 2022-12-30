@@ -7,10 +7,13 @@ tags:
   - cool
 ---
 # TIC-80
+
+TIC-80 is an open-source fantasy console for creating and sharing small games.
+
 Website: [https://tic80.com](https://tic80.com)
 
 ## Useful commands
 
 `folder`
 
-Open current working directory on your file system.
+Open the current working directory on your file system.
