@@ -33,6 +33,6 @@ Location: [Akiba Square - 秋葉原UDX アキバ・スクエア＆UDXギャラ�
 
 ## TOKYO SANDBOX
 
-Website: [https://www.tokyosandbox.com/](https://www.tokyosandbox.com/)
+Website: [https://www.tokyosandbox.com](https://www.tokyosandbox.com)
 
 Twitter [@TokyoSandbox](https://twitter.com/TokyoSandbox)
