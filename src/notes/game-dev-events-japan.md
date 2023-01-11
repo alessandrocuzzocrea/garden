@@ -36,3 +36,5 @@ Location: [Akiba Square - 秋葉原UDX アキバ・スクエア＆UDXギャラ�
 Website: [https://www.tokyosandbox.com](https://www.tokyosandbox.com)
 
 Twitter [@TokyoSandbox](https://twitter.com/TokyoSandbox)
+
+Location: [Bellesalle Akihabara - ベルサール秋葉原](https://www.bellesalle.co.jp/shisetsu/tokyo/bs_akihabara/)
