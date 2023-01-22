@@ -1,6 +1,6 @@
 ---
 title: TIC-80
-permalink: /TIC-80/
+permalink: /tic-80/
 tags: 
   - game-dev
   - programming
