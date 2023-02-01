@@ -44,7 +44,7 @@ tags:
 
 #### Emotion and Change
 
-- To provoke emotion, an event must change some *human value*.
+- To provoke emotion, an event must change some **human value**.
 - The greater the change in human value, the stronger the emotion.
 - A human value is anything that is important to people that can shift through multiple states. E.g. life/death, victory/defeat, wealth/poverty, etc.
 - Changing human values can exist within the game or in real life.
@@ -53,22 +53,44 @@ tags:
 - Information reveal is emotionally equivalent to change.
 - A game can create human value shift by revealing or hiding informations.
 
-#### The Emotional Black Box
+**The Emotional Black Box**
 
 - Emotion is a goal of game design but it is hard to track its precise origins because emotional triggers emotions are automatically handled by the unconscious mind.
 
-##### The Bridge
+**The Bridge**
 
 - Classic experiment about the misattribution of emotions. See https://en.wikipedia.org/wiki/Misattribution_of_arousal#Experiment
 
-##### Emotional Misattribution
+**Emotional Misattribution**
 
-- *Emotional misattribution* happens constantly.
+- **Emotional misattribution** happens constantly.
 - Emotional misattribution can be used in a manipulative way.
 - Our minds try to rationalize our emotions constantly -- and often in the wrong way.
 - Emotional misattribution makes it difficult to determine the specific triggers of emotions in games as they present a complex array of stimuli and decisions.
 - Designing games is hard because we can't see inside people's heads and know exactly how they feel when they play the game, making it difficult to determine emotional triggers.
 - Game design requires theorizing at a distance using evidence-based methods and playtesting, but it's still tricky to get it just right.
+
+#### The basic Emotional Triggers
+
+**Emotion through learning**
+
+- People have a natural desire to learn.
+- The more important the lesson, the more we are driven to learn it.
+- Lessons related to human values are the one that affect us the most.
+- Games focused on building, socialize, and fighting will always have the widest reach.
+- A lesson too obvious will not held player interest well as a more subtle/complex one.
+- So the game designer's challenge is to create a multi-layered system comprised of non-obvious properties for the player to decode.
+- This means creating a deep game system that reveals lessons through layers.
+- Each layer should build on the one before it.
+- Games like *chess* or *poker* provide lifelong learning experiences.
+- **Insight** -- a sudden and deep understanding or realization about something, typically as a result of new information being learned. 
+- An insight it's a moment of clarity that brings together previously disconnected pieces of information and causes them to make sense in a larger context. 
+- An insight often results in a feeling of excitement or satisfaction as the puzzle is solved and the larger picture is revealed.
+- Insight moments are preceded by clues that the player initially fails to interpret correctly, but managed to do so afterward.
+- Stories can do this very well since they control exactly what and when the player gets new information.
+- Insight buildup can be used in game mechanics as well.
+
+**Emotion through character arcs**
 
 ## Part 2 - Game Crafting
 
