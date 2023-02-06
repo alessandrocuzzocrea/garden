@@ -91,6 +91,13 @@ tags:
 - Insight buildup can be used in game mechanics as well.
 
 **Emotion through character arcs**
+- Humans have the capacity to feel empathy towards others.
+- Game designers have two ways of creating character arcs in their games. 
+- Pre-defining them like screenwriters and novelists.
+- Generating them dynamically through the game itself.
+- People like to learn about other people.
+- Character arcs attract our attention because they reveal a character's inner values and abilities during conflict.
+- The greater the conflict, the more we are able to understand their true character.
 
 ## Part 2 - Game Crafting
 
