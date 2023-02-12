@@ -30,7 +30,6 @@ Twitter [@DigiGameExpo](https://twitter.com/DigiGameExpo)
 
 Location: [Akiba Square - 秋葉原UDX アキバ・スクエア＆UDXギャラリー](https://udx-akibaspace.jp/akibasquare/)
 
-
 ## TOKYO SANDBOX
 
 Website: [https://www.tokyosandbox.com](https://www.tokyosandbox.com)
@@ -38,3 +37,11 @@ Website: [https://www.tokyosandbox.com](https://www.tokyosandbox.com)
 Twitter [@TokyoSandbox](https://twitter.com/TokyoSandbox)
 
 Location: [Bellesalle Akihabara - ベルサール秋葉原](https://www.bellesalle.co.jp/shisetsu/tokyo/bs_akihabara/)
+
+## Indie Games Connect (IGC)
+
+Website: [https://www.konami.com/games/event/igc2023/](https://www.konami.com/games/event/igc2023/)
+
+Twitter [@KONAMI573ch](https://twitter.com/KONAMI573ch)
+
+Location: [KONAMI CREATIVE CENTER GINZA (コナミクリエイティブセンター銀座)](https://www.konami.com/ginza/#accessSection)
