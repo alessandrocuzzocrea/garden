@@ -100,11 +100,11 @@ tags:
 - The greater the conflict, the more we are able to understand their true character.
 
 **Emotion through challenge**
-- Challenge is an important part of game design.
-- Players feels galvanized when successfully completing a challenge.
-- Focusing on a difficult challenge may be pleasurable. 
-- Failing a challenge may cause an emotional kick causing the player to wants to try again if they feel like there is a fair possibility of succeeding next time.
-- Some games may not have a predetermined challenge to them but leave to the player to find their own.
+- Challenges play a crucial role in game design.
+- Players experience a sense of accomplishment and excitement when they successfully complete a challenge.
+- Engaging in difficult challenges can be enjoyable.
+- Failing a challenge can also generate emotions, motivating the player to try again if they feel they have a fair chance of success.
+- Some games offer no set challenges and allow the player to create their own obstacles to overcome.
 
 ## Part 2 - Game Crafting
 
