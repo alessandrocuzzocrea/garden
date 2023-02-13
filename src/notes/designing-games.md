@@ -99,6 +99,13 @@ tags:
 - Character arcs attract our attention because they reveal a character's inner values and abilities during conflict.
 - The greater the conflict, the more we are able to understand their true character.
 
+**Emotion through challenge**
+- Challenge is an important part of game design.
+- Players feels galvanized when successfully completing a challenge.
+- Focusing on a difficult challenge may be pleasurable. 
+- Failing a challenge may cause an emotional kick causing the player to wants to try again if they feel like there is a fair possibility of succeeding next time.
+- Some games may not have a predetermined challenge to them but leave to the player to find their own.
+
 ## Part 2 - Game Crafting
 
 ### Elegance
