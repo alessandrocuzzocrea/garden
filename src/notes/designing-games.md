@@ -106,6 +106,13 @@ tags:
 - Failing a challenge can also generate emotions, motivating the player to try again if they feel they have a fair chance of success.
 - Some games offer no set challenges and allow the player to create their own obstacles to overcome.
 
+**Emotion through social interaction**
+- Certain games are created to evoke emotional responses through fostering social interactions between players.
+- Games serve as a tool for people to express themselves and interact with others.
+- The reasons behind playing a game, such as building relationships, establishing maturity, or seeking excitement, often hold more significance than the game itself. 
+- Playing games is a way for people to connect and engage with each other in their everyday lives.
+- Players can form relationships, learn together, or simply become friends while playing the game.
+
 ## Part 2 - Game Crafting
 
 ### Elegance
