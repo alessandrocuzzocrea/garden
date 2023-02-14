@@ -123,6 +123,11 @@ tags:
 - Playing games without music feels incomplete.
 - Sound effects also evoke emotions.
 
+**Emotion through spectacle**
+- Visually impressive or dramatic events, such as explosions or crashes, can be use to evoke a quick emotional response in the player. 
+- Spectacle can be effective in reinforcing existing emotions. 
+- Its overuse can detract from subtler and more profound sources of emotion in the game.
+
 ## Part 2 - Game Crafting
 
 ### Elegance
