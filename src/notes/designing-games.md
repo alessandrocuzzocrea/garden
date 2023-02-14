@@ -132,6 +132,8 @@ tags:
 - Beauty is enjoyable and can attract us to things.
 - Beauty is most effective when it's used purposefully or deliberately.
 
+**Emotion through environment**
+
 ## Part 2 - Game Crafting
 
 ### Elegance
