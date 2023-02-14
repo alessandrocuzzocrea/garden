@@ -113,6 +113,11 @@ tags:
 - Playing games is a way for people to connect and engage with each other in their everyday lives.
 - Players can form relationships, learn together, or simply become friends while playing the game.
 
+**Emotion through acquisition**
+- People feels happy when they obtain something valuable.
+- Gambling games trigger this response with real wealth.
+- This response may also be triggered with fake rewards (see games like Diablo).
+
 ## Part 2 - Game Crafting
 
 ### Elegance
