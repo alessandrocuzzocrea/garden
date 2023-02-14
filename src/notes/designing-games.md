@@ -124,9 +124,9 @@ tags:
 - Sound effects also evoke emotions.
 
 **Emotion through spectacle**
-- Visually impressive or dramatic events, such as explosions or crashes, can be use to evoke a quick emotional response in the player. 
-- Spectacle can be effective in reinforcing existing emotions. 
-- Its overuse can detract from subtler and more profound sources of emotion in the game.
+- Visually impressive events like explosions or crashes can make players feel strong emotions quickly.
+- These events can be effective in making players feel more strongly about what's already happening in the game.
+- Overuse can take away from other things that might make players feel deeper, more meaningful emotions.
 
 ## Part 2 - Game Crafting
 
