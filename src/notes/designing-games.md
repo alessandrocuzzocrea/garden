@@ -128,6 +128,10 @@ tags:
 - These events can be effective in making players feel more strongly about what's already happening in the game.
 - Overuse can take away from other things that might make players feel deeper, more meaningful emotions.
 
+**Emotion through beauty**
+- Beauty is pleasurable and can make us attract to something.
+- Beauty works best when it's used intentionally.
+
 ## Part 2 - Game Crafting
 
 ### Elegance
