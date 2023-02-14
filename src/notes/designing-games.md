@@ -119,9 +119,9 @@ tags:
 - This response can also be caused by games that offer virtual rewards (Diablo).
 
 **Emotion through music**
-- Music is a wonderful tool to trigger emotional response.
-- Playing a game without music feels empty.
-- Sound effects also create emotion.
+- Music triggers emotional responses effectively.
+- Playing games without music feels incomplete.
+- Sound effects also evoke emotions.
 
 ## Part 2 - Game Crafting
 
