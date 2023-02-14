@@ -114,9 +114,9 @@ tags:
 - Players can form relationships, learn together, or simply become friends while playing the game.
 
 **Emotion through acquisition**
-- People feels happy when they obtain something valuable.
-- Gambling games trigger this response with real wealth.
-- This response may also be triggered with fake rewards (see games like Diablo).
+- People feel happy when they obtain something valuable.
+- Gambling games can trigger this response with the possibility of winning real money.
+- This response can also be caused by games that offer virtual rewards (Diablo).
 
 ## Part 2 - Game Crafting
 
