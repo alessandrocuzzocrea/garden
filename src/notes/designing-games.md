@@ -129,8 +129,8 @@ tags:
 - Overuse can take away from other things that might make players feel deeper, more meaningful emotions.
 
 **Emotion through beauty**
-- Beauty is pleasurable and can make us attract to something.
-- Beauty works best when it's used intentionally.
+- Beauty is enjoyable and can attract us to things.
+- Beauty is most effective when it's used purposefully or deliberately.
 
 ## Part 2 - Game Crafting
 
