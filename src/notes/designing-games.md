@@ -118,6 +118,11 @@ tags:
 - Gambling games can trigger this response with the possibility of winning real money.
 - This response can also be caused by games that offer virtual rewards (Diablo).
 
+**Emotion through music**
+- Music is a wonderful tool to trigger emotional response.
+- Playing a game without music feels empty.
+- Sound effects also create emotion.
+
 ## Part 2 - Game Crafting
 
 ### Elegance
