@@ -139,9 +139,8 @@ tags:
 - Generally, we tend to prefer the environments in which we grew up.
 
 **Emotion through newfangled technology**
-- New shiny tech is cool.
-- But be careful to not turn your game into a tech demo.
-- To achieve success, you must use your new cool piece tech to create meaningful experiences that weren't possible before. 
+- New and shiny technology can be exciting, but it's important to avoid turning your game into just a tech demo.
+- To achieve success, you should leverage your innovative technology to create meaningful experiences that were not possible before.
 
 ## Part 2 - Game Crafting
 
