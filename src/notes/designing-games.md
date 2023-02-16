@@ -6,7 +6,6 @@ tags:
   - gamedev
 ---
 ## Part 1 - Engines of Experience
-
 - Game design -> creating rules
 - Not any rules will do, most rules will generate a simple, repetitive patterns or just plain painful to learn and they will not make play that game an enjoyable experience.
 - For example, Chess generates a perfect rhythm of puzzle and solutions, tension and release and that make the game more enjoyable/memorable.
@@ -18,7 +17,6 @@ tags:
 ### Chapter 1. Engines of Experience
 
 #### Mechanics and Events
-
 - Games are made out *mechanics*.
 - A mechanic is a game's rule, which defines how the game works.
 - During gameplay, the player interact with the game and generates *events*.
@@ -27,7 +25,6 @@ tags:
 - Game designers design the systems that generate events.
 
 #### The Primacy of Emotion
-
 - To hold the player's attention, events must provoke emotions.
 - Emotions can be so subtle that players don't consciously detect them.
 - Events in games can produce those small emotions.
@@ -37,13 +34,11 @@ tags:
 - Emotions during gaming are not limited to "fun".
 
 #### Emotional Triggers
-
 - How do events create emotions?
 - Human mind triggers an emotional response when certain conditions are met.
 - An *emotional trigger* is something that causes emotion.
 
 #### Emotion and Change
-
 - To provoke emotion, an event must change some **human value**.
 - The greater the change in human value, the stronger the emotion.
 - A human value is anything that is important to people that can shift through multiple states. E.g. life/death, victory/defeat, wealth/poverty, etc.
@@ -51,18 +46,15 @@ tags:
 - Minor events can be very emotional if they carry important implications.
 - Emotions also appear in expectation of change.
 - Information reveal is emotionally equivalent to change.
-- A game can create human value shift by revealing or hiding informations.
+- A game can create human value shift by revealing or hiding information.
 
 **The Emotional Black Box**
-
 - Emotion is a goal of game design but it is hard to track its precise origins because emotional triggers emotions are automatically handled by the unconscious mind.
 
 **The Bridge**
-
 - Classic experiment about the misattribution of emotions. See https://en.wikipedia.org/wiki/Misattribution_of_arousal#Experiment
 
 **Emotional Misattribution**
-
 - **Emotional misattribution** happens constantly.
 - Emotional misattribution can be used in a manipulative way.
 - Our minds try to rationalize our emotions constantly -- and often in the wrong way.
@@ -71,7 +63,6 @@ tags:
 - Game design requires theorizing at a distance using evidence-based methods and playtesting, but it's still tricky to get it just right.
 
 #### The basic Emotional Triggers
-
 **Emotion through learning**
 
 - People have a natural desire to learn.
