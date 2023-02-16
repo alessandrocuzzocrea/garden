@@ -143,10 +143,10 @@ tags:
 - To achieve success, you should leverage your innovative technology to create meaningful experiences that were not possible before.
 
 **Emotion through primal threats**
-- Some dangers (like poisonous critters, rotten foods, visibly diseased people) are so impressed in our DNA that just the sight evoke special adrenaline response.
-- So it's easy to provoke an adrenaline rush just by showing those in a game.
-- movies and games abuse those a lot so people may be already desensitize.
-- to really horrify players, you must disturb them on a deeper level.
+- Certain primal dangers, such as predators, decaying matter, and contagious illness, are so deeply rooted in our DNA that merely encountering them can trigger a special adrenaline response.
+- As a result, it can be easy to provoke an adrenaline rush in players simply by featuring these dangers in a game.
+- However, because movies and games frequently exploit these stimuli, players may have become desensitized to them.
+- To truly horrify players, you must disturb them on a deeper level.
 
 ## Part 2 - Game Crafting
 
