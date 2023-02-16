@@ -1,4 +1,9 @@
 {
   "gitdoc.enabled": true,
   "gitdoc.filePattern": "**/*.md",
+  "cSpell.words": [
+    "gamedev",
+    "gameplay",
+    "playtesting"
+  ],
 }

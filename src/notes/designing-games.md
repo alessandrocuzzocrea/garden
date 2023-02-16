@@ -133,6 +133,9 @@ tags:
 - Beauty is most effective when it's used purposefully or deliberately.
 
 **Emotion through environment**
+- Games can use different type of environments, weathers, and seasons to evoke emotional responses.
+- We are wired to feels better in environments hospitable for the human species.
+- We tend prefer the environments we grew up in.
 
 ## Part 2 - Game Crafting
 
