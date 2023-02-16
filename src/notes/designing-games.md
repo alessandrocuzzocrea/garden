@@ -142,6 +142,12 @@ tags:
 - New and shiny technology can be exciting, but it's important to avoid turning your game into just a tech demo.
 - To achieve success, you should leverage your innovative technology to create meaningful experiences that were not possible before.
 
+**Emotion through primal threats**
+- Some dangers (like poisonous critters, rotten foods, visibly diseased people) are so impressed in our DNA that just the sight evoke special adrenaline response.
+- So it's easy to provoke an adrenaline rush just by showing those in a game.
+- movies and games abuse those a lot so people may be already desensitize.
+- to really horrify players, you must disturb them on a deeper level.
+
 ## Part 2 - Game Crafting
 
 ### Elegance
