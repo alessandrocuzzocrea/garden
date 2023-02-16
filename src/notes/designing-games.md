@@ -138,6 +138,11 @@ tags:
 - Hostile environments, such as extreme weather or barren landscapes, can evoke negative emotions like anxiety or discomfort.
 - Generally, we tend to prefer the environments in which we grew up.
 
+**Emotion through newfangled technology**
+- New shiny tech is cool.
+- But be careful to not turn your game into a tech demo.
+- To achieve success, you must use your new cool piece tech to create meaningful experiences that weren't possible before. 
+
 ## Part 2 - Game Crafting
 
 ### Elegance
