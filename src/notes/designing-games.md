@@ -176,8 +176,8 @@ tags:
 - Multiple emotional triggers can produce the same emotion when combined.
 
 **Juxtaposition**
-- Juxtaposition is the combination of different, seemingly incompatible feelings.  Ramming  together  feelings  that  don’t  ordinarily  mix  can  produce  strange and sometimes valuable results.
-- There is an easy way to experiment with juxtaposition. Just replace the music in a game with music that creates a very different feeling.
+- Juxtaposition involves blending seemingly incompatible emotions, resulting in unique and sometimes valuable outcomes.
+- An easy way to experiment with juxtaposition is by replacing the game's music with a track that generates a different emotional response.
 
 #### Engines of Experience
 
