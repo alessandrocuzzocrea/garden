@@ -173,7 +173,7 @@ tags:
 - Emotions can interact with each other to enhance or transform the overall experience.
 
 **Pure emotion**
-- We can combine several different emotional triggers that drive the exact same emotion.
+- Multiple emotional triggers can produce the same emotion when combined.
 
 #### Engines of Experience
 
