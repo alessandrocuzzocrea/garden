@@ -154,7 +154,7 @@ tags:
 - Downsides: cheap and gratuitous sexual signals may cheapens the whole experience and may also be off putting for certain players.
 
 #### The Fiction Layer
-- The fiction layer creates emotion through character, plot, and world.
+- Fiction and mechanics each create different kinds of emotions.
 - Mechanics gain another layer of emotional meaning when they are wrapped in fiction.
 - The fictional wrapping doesn't replace or conceal the game mechanics.
 - The immersive fallacy (named by designer Eric Zimmerman) is the mistaken belief that immersion in a game or other virtual experience is the primary or only goal of the experience.
