@@ -184,6 +184,11 @@ tags:
 - It can be difficult to distinguish between juxtaposition and antagonistic emotions.
 - Sometimes, attempts at juxtaposition fail when emotions destroy each other. Other times, seemingly antagonistic emotions produce an unexpected outcome.
 
+**Atmosphere**
+- The word atmosphere is used when the emotions of the experience aren’t focused around specific events, but rather permeate the whole experience in a spread-out haze.
+- It is the emotional background  that  we  only  notice  when nothing more salient is happening.
+- Stop and wait in a game and just feel for a minute. You’ll discover the game’s atmosphere.
+
 #### Engines of Experience
 
 ## Part 2 - Game Crafting
