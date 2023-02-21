@@ -154,10 +154,10 @@ tags:
 - However, using cheap or excessive sexual signals can detract from the overall experience and may turn off some players.
 
 #### The Fiction Layer
-- Fiction and mechanics each create different kinds of emotions.
-- Mechanics gain another layer of emotional meaning when they are wrapped in fiction.
-- The fictional wrapping doesn't replace or conceal the game mechanics.
-- The immersive fallacy (named by designer Eric Zimmerman) is the mistaken belief that immersion in a game or other virtual experience is the primary or only goal of the experience.
+- Fiction and mechanics each evoke different kinds of emotions.
+- Fictional elements enhance the emotional impact of game mechanics.
+- Fictional elements do not overshadow or hide the mechanics.
+- The "immersive fallacy" (coined by designer Eric Zimmerman) is the misconception that immersion is the sole or main purpose of a virtual experience.
 
 **Fiction versus mechanics**
 - Mechanics can generate tension, relief, triumph, loss, etc.
