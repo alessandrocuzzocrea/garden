@@ -171,6 +171,8 @@ tags:
 - Fiction  and  mechanics  need  not  fight  (though  they  easily  can),  and  neither one need be given primacy (though one often is). Used together, they can enhance and extend each other in ways that each cannot do alone by threading them together into a single system of emotion.
 
 #### Constructing Experiences
+- An  experience  is  the  combined  result of the emotions the game has caused the  player to feel, stretching  from  the  beginning  of  play  to the end.
+- Different emotions put together can enhance one another, transform one another, or even destroy one another.
 
 #### Engines of Experience
 
