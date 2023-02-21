@@ -169,8 +169,8 @@ tags:
 - Fiction and mechanics can complement each other to create a more powerful emotional experience when integrated into a single system.
 
 #### Constructing Experiences
-- An  experience  is  the  combined  result of the emotions the game has caused the  player to feel, stretching  from  the  beginning  of  play  to the end.
-- Different emotions put together can enhance one another, transform one another, or even destroy one another.
+- The overall experience of a game is the cumulative effect of the player's emotions from start to finish.
+- Emotions can interact with each other to enhance or transform the overall experience.
 
 #### Engines of Experience
 
