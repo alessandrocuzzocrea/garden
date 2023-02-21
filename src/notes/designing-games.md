@@ -175,6 +175,10 @@ tags:
 **Pure emotion**
 - Multiple emotional triggers can produce the same emotion when combined.
 
+**Juxtaposition**
+- Juxtaposition is the combination of different, seemingly incompatible feelings.  Ramming  together  feelings  that  don’t  ordinarily  mix  can  produce  strange and sometimes valuable results.
+- There is an easy way to experiment with juxtaposition. Just replace the music in a game with music that creates a very different feeling.
+
 #### Engines of Experience
 
 ## Part 2 - Game Crafting
