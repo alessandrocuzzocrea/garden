@@ -180,9 +180,9 @@ tags:
 - An easy way to experiment with juxtaposition is by replacing the game's music with a track that generates a different emotional response.
 
 **Antagonistic emotions**
-- Some kinds of emotions that work individually don’t coexist easily because they’re antagonistic toward each other.
-- There’s a fine line between juxtaposition and antagonistic emotions. 
-- Sometimes  attempts  at  juxtaposition  fall  flat  when  the  two  feelings  just  end up annihilating each other. Other times, what seems like an antagonistic combination can squirt out an entirely different feeling.
+- Some emotions do not coexist well together because they are antagonistic.
+- It can be difficult to distinguish between juxtaposition and antagonistic emotions.
+- Sometimes, attempts at juxtaposition fail when emotions destroy each other. Other times, seemingly antagonistic emotions produce an unexpected outcome.
 
 #### Engines of Experience
 
