@@ -149,9 +149,9 @@ tags:
 - To truly horrify players, you must disturb them on a deeper level.
 
 **Emotion through sexual signals**
-- Humans are genetically programmed to pay attention to sexual signals.
-- Those are easy and effective way to bring the player attention.
-- Downsides: cheap and gratuitous sexual signals may cheapens the whole experience and may also be off putting for certain players.
+- Humans naturally respond to sexual signals.
+- These signals can capture a player's attention quickly and effectively.
+- However, using cheap or excessive sexual signals can detract from the overall experience and may turn off some players.
 
 #### The Fiction Layer
 - Fiction and mechanics each create different kinds of emotions.
