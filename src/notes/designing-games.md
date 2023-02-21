@@ -148,6 +148,10 @@ tags:
 - However, because movies and games frequently exploit these stimuli, players may have become desensitized to them.
 - To truly horrify players, you must disturb them on a deeper level.
 
+**Emotion through sexual signals**
+- Humans are genetically programmed to pay attention to sexual signals.
+- Those are easy and effective way to bring the player attention.
+- Downsides: cheap and gratuitous sexual signals may cheapens the whole experience and may also be off putting for certain players.
 ## Part 2 - Game Crafting
 
 ### Elegance
