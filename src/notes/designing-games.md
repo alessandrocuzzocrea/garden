@@ -152,6 +152,18 @@ tags:
 - Humans are genetically programmed to pay attention to sexual signals.
 - Those are easy and effective way to bring the player attention.
 - Downsides: cheap and gratuitous sexual signals may cheapens the whole experience and may also be off putting for certain players.
+
+#### The Fiction Layer
+- The fiction layer creates emotion through character, plot, and world.
+- Mechanics gain another layer of emotional meaning when they are wrapped in fiction.
+- The fictional wrapping doesn't replace or conceal the game mechanics.
+- The immersive fallacy (named by designer Eric Zimmerman) is the mistaken belief that immersion in a game or other virtual experience is the primary or only goal of the experience.
+- Warning: Fiction and mechanics can easily interfere with each other.
+
+#### Constructing Experiences
+
+#### Engines of Experience
+
 ## Part 2 - Game Crafting
 
 ### Elegance
