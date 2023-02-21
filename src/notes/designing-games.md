@@ -158,7 +158,17 @@ tags:
 - Mechanics gain another layer of emotional meaning when they are wrapped in fiction.
 - The fictional wrapping doesn't replace or conceal the game mechanics.
 - The immersive fallacy (named by designer Eric Zimmerman) is the mistaken belief that immersion in a game or other virtual experience is the primary or only goal of the experience.
+
+**Fiction versus mechanics**
+- Mechanics can generate tension, relief, triumph, loss, etc.
+- The fiction layer creates emotion through character, plot, and world.
+- Combining fiction and mechanics together allows us to combine emotions from both sides.
 - Warning: Fiction and mechanics can easily interfere with each other.
+- Because fiction and mechanics so easily interfere with each other, many games choose to emphasize one while mostly ignoring the other.
+- There’s  a  natural  trade-off  between  focusing  on  mechanics  and  focusing  on  fiction.  Focusing  on  mechanics  allows  the  designer  to  create  a perfectly balanced, clear, and deep challenge. But it’ll probably be very hard to find a fictional wrapping that resembles these perfect mechanics. 
+- This fiction–mechanics conflict is why some see a great debate between mechanics  and  fiction.
+- Ludologists vs narratologists.
+- Fiction  and  mechanics  need  not  fight  (though  they  easily  can),  and  neither one need be given primacy (though one often is). Used together, they can enhance and extend each other in ways that each cannot do alone by threading them together into a single system of emotion.
 
 #### Constructing Experiences
 
