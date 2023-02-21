@@ -179,6 +179,11 @@ tags:
 - Juxtaposition involves blending seemingly incompatible emotions, resulting in unique and sometimes valuable outcomes.
 - An easy way to experiment with juxtaposition is by replacing the game's music with a track that generates a different emotional response.
 
+**Antagonistic emotions**
+- Some kinds of emotions that work individually don’t coexist easily because they’re antagonistic toward each other.
+- There’s a fine line between juxtaposition and antagonistic emotions. 
+- Sometimes  attempts  at  juxtaposition  fall  flat  when  the  two  feelings  just  end up annihilating each other. Other times, what seems like an antagonistic combination can squirt out an entirely different feeling.
+
 #### Engines of Experience
 
 ## Part 2 - Game Crafting
