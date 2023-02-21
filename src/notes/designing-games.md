@@ -185,9 +185,9 @@ tags:
 - Sometimes, attempts at juxtaposition fail when emotions destroy each other. Other times, seemingly antagonistic emotions produce an unexpected outcome.
 
 **Atmosphere**
-- The word atmosphere is used when the emotions of the experience aren’t focused around specific events, but rather permeate the whole experience in a spread-out haze.
-- It is the emotional background  that  we  only  notice  when nothing more salient is happening.
-- Stop and wait in a game and just feel for a minute. You’ll discover the game’s atmosphere.
+- Atmosphere is the overall emotional feel of an experience, not focused on specific events.
+- It's like the emotional background that we only notice when nothing else stands out.
+- To sense the atmosphere of a game, simply stop and take a moment to feel the emotional vibe.
 
 #### Engines of Experience
 
