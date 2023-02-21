@@ -172,6 +172,9 @@ tags:
 - The overall experience of a game is the cumulative effect of the player's emotions from start to finish.
 - Emotions can interact with each other to enhance or transform the overall experience.
 
+**Pure emotion**
+- We can combine several different emotional triggers that drive the exact same emotion.
+
 #### Engines of Experience
 
 ## Part 2 - Game Crafting
