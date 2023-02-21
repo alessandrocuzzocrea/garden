@@ -160,15 +160,13 @@ tags:
 - The "immersive fallacy" (coined by designer Eric Zimmerman) is the misconception that immersion is the sole or main purpose of a virtual experience.
 
 **Fiction versus mechanics**
-- Mechanics can generate tension, relief, triumph, loss, etc.
-- The fiction layer creates emotion through character, plot, and world.
-- Combining fiction and mechanics together allows us to combine emotions from both sides.
-- Warning: Fiction and mechanics can easily interfere with each other.
-- Because fiction and mechanics so easily interfere with each other, many games choose to emphasize one while mostly ignoring the other.
-- There’s  a  natural  trade-off  between  focusing  on  mechanics  and  focusing  on  fiction.  Focusing  on  mechanics  allows  the  designer  to  create  a perfectly balanced, clear, and deep challenge. But it’ll probably be very hard to find a fictional wrapping that resembles these perfect mechanics. 
-- This fiction–mechanics conflict is why some see a great debate between mechanics  and  fiction.
-- Ludologists vs narratologists.
-- Fiction  and  mechanics  need  not  fight  (though  they  easily  can),  and  neither one need be given primacy (though one often is). Used together, they can enhance and extend each other in ways that each cannot do alone by threading them together into a single system of emotion.
+- Mechanics generate various emotions such as tension, relief, triumph, loss, etc.
+- Fiction layer creates emotion through character, plot, and world.
+- Combining fiction and mechanics allows for a more nuanced emotional experience.
+- Caution: Fiction and mechanics can clash, leading some games to prioritize one over the other.
+- A trade-off exists between emphasizing mechanics for a clear and challenging experience or focusing on fiction to enhance the wrapping.
+- The fiction-mechanics debate pits ludologists against narratologists.
+- Fiction and mechanics can complement each other to create a more powerful emotional experience when integrated into a single system.
 
 #### Constructing Experiences
 - An  experience  is  the  combined  result of the emotions the game has caused the  player to feel, stretching  from  the  beginning  of  play  to the end.
