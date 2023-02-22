@@ -190,11 +190,11 @@ tags:
 - To sense the atmosphere of a game, simply stop and take a moment to feel the emotional vibe.
 
 **Emotional variation**
-- Any single emotion gets tiring if sustained too long.
-- To retain power and freshness, an experience must transform over time.
-- One classic way of doing this is pacing variation.
-- The classic pacing curve starts with the hook, settles into a rising action, builds up, and then finally peaks at its climax before resolving with a denouement.
-- In addition to varying intensity with changes in pace, we can also vary the flavor of emotions. Psychologists call this aspect of emotion valence.
+- One emotion becomes tiring if it lasts too long.
+- An experience must transform over time to remain fresh and engaging.
+- Pacing variation is a classic way to achieve this.
+- The traditional pacing curve consists of a hook, rising action, climax, and ending.
+- We can also vary the emotional "flavor" or valence of the experience in addition to changing its intensity through pacing.
 
 #### Engines of Experience
 
