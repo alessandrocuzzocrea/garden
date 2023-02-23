@@ -3,7 +3,8 @@ title: "Designing Games: A Guide to Engineering Experiences – Book Summary and
 permalink: /designing-games-a-guide-to-engineering-experiences-book-summary/
 tags: 
   - book
-  - gamedev
+  - game-design
+  - game-dev
 ---
 ## Part 1 - Engines of Experience
 - Game design -> creating rules
