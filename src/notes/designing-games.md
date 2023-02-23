@@ -188,13 +188,11 @@ tags:
 - We can also vary the flavor of emotions by changing their *valence*, which refers to the positive or negative quality of an emotion.
 
 **Flow**
-- FLOW is a state of concentration so focused that it amounts to total absorption in an activity.
-- Flow is a popular concept in psychology that is particularly applicable to game design. 
-- It was originally described by the Hungarian psychologist Mihály Csíkszentmihályi.
-- Flow makes time seem to disappear. Hours can seem like minutes when a player is utterly engrossed in an activity. It is the perfect form of escapism because it strips everything else out of the mind.
-- If the task is too hard, flow breaks as the player becomes confused and anxious. 
-- If it is too easy, the player gets bored.
-- Flow is the foundation for most good game experiences.
+- Flow is a state of concentration where one is fully absorbed in an activity, popular in psychology and applicable to game design.
+- It was originally described by Hungarian psychologist Mihály Csíkszentmihályi and makes time seem to disappear.
+- Flow provides perfect escapism as it strips the mind of everything else.
+- However, if the task is too difficult, flow breaks, and if it's too easy, the player becomes bored.
+- Flow is essential to creating great game experiences.
 
 #### Engines of Experience
 
