@@ -52,7 +52,7 @@ tags:
 - Emotion is a goal of game design but it is hard to track its precise origins because emotional triggers emotions are automatically handled by the unconscious mind.
 
 **The Bridge**
-- Classic experiment about the misattribution of emotions. See https://en.wikipedia.org/wiki/Misattribution_of_arousal#Experiment
+- Classic experiment about the misattribution of emotions. See [Wikipedia](https://en.wikipedia.org/wiki/Misattribution_of_arousal#Experiment)
 
 **Emotional Misattribution**
 - **Emotional misattribution** happens constantly.
