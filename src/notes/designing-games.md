@@ -1,6 +1,6 @@
 ---
 title: "Designing Games: A Guide to Engineering Experiences – Book Summary and Notes"
-permalink: /designing-games-a-guide-to-engineering-experiences-notes/
+permalink: /designing-games-a-guide-to-engineering-experiences-book-summary/
 tags: 
   - book
   - gamedev
