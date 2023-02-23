@@ -187,6 +187,15 @@ tags:
 - One classic way of doing this is by varying the pacing. The traditional pacing curve includes a hook, rising action, climax, and resolution.
 - We can also vary the flavor of emotions by changing their *valence*, which refers to the positive or negative quality of an emotion.
 
+**Flow**
+- FLOW is a state of concentration so focused that it amounts to total absorption in an activity.
+- Flow is a popular concept in psychology that is particularly applicable to game design. 
+- It was originally described by the Hungarian psychologist Mihály Csíkszentmihályi.
+- Flow makes time seem to disappear. Hours can seem like minutes when a player is utterly engrossed in an activity. It is the perfect form of escapism because it strips everything else out of the mind.
+- If the task is too hard, flow breaks as the player becomes confused and anxious. 
+- If it is too easy, the player gets bored.
+- Flow is the foundation for most good game experiences.
+
 #### Engines of Experience
 
 ## Part 2 - Game Crafting
