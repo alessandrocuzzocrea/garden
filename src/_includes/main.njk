@@ -17,6 +17,8 @@
     {% endif -%}
     <style>
       body {
+        background-color: #f8f8f2;
+        color: #272822;
         font-family: Helvetica, Arial, sans-serif;
         font-weight: 300;
         padding-left: 16px;
@@ -37,6 +39,22 @@
         border-radius: 0.3em;
         padding: 4px 5px 6px;
         white-space: nowrap;
+      }
+      @media (prefers-color-scheme: dark) {
+        body {
+          background-color: #272822;
+          color: #f8f8f2;
+        }
+        code {
+          background-color: #f8f8f2;
+          color: #272822;
+        }
+        a {
+          color: #fff;
+        }
+        a:visited {
+          color: #fff;
+        }
       }
     </style>
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
