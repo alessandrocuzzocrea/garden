@@ -1,6 +1,6 @@
 ---
 title: "Invisible Ink: A Practical Guide to Build Stories that Resonate – Book Summary and Notes"
-permalink: /invisible-ink-book-notes/
+permalink: /invisible-ink-a-practical-guide-to-build-stories-that-resonate-book-summary/
 tags: 
   - book
   - storytelling
