@@ -45,3 +45,11 @@ Website: [https://www.konami.com/games/event/igc2023/](https://www.konami.com/ga
 Twitter [@KONAMI573ch](https://twitter.com/KONAMI573ch)
 
 Location: [KONAMI CREATIVE CENTER GINZA (コナミクリエイティブセンター銀座)](https://www.konami.com/ginza/#accessSection)
+
+## TOKYO INDIE GAMES SUMMIT
+
+Website: [https://indiegamessummit.tokyo/en/](https://indiegamessummit.tokyo/en/)
+
+Twitter [@TOKYO_IGS](https://twitter.com/TOKYO_IGS)
+
+Location: [Musashino Public Hall, Kichijoji REI Hotel, Tokyo (武蔵野公会堂)](https://www.musashino.or.jp/koukaido/)
