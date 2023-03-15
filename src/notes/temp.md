@@ -23,3 +23,15 @@ $ /Applications/Steam.app/Contents/MacOS/steam_osx -no-browser +open steam://ope
 ## Usage
 
 To use this command, open Terminal on your macOS system and paste the command provided above. Press Enter to execute the command. This will launch Steam without the built-in browser, and it will open the minigames list page directly.
+
+## MS Windows
+
+To launch Steam without the built-in browser on Windows, you can use the following command:
+
+```shell
+"C:\Program Files (x86)\Steam\Steam.exe" -no-browser +open steam://open/minigameslist
+```
+
+This command assumes that Steam is installed in the default location. If you installed Steam in a different location, make sure to adjust the path accordingly.
+
+To use this command on Windows, press Win + R to open the Run dialog, paste the command provided above, and press Enter. This will launch Steam without the built-in browser and directly open the minigames list page.
