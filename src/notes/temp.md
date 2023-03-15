@@ -1,6 +1,6 @@
 ---
 title: Launch Steam without Browser
-permalink: /launch-steam-no-browser
+permalink: /launch-steam-no-browser/
 tags:
   - steam
   - performance
@@ -8,7 +8,9 @@ tags:
 ---
 If you want to launch Steam on your macOS system without loading the built-in browser to save resources and increase performance, you can use the following command:
 
-/Applications/Steam.app/Contents/MacOS/steam_osx -no-browser +open steam://open/minigameslist
+```shell
+$ /Applications/Steam.app/Contents/MacOS/steam_osx -no-browser +open steam://open/minigameslist
+```
 
 ## Command Breakdown
 
