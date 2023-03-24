@@ -6,27 +6,28 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
 
   eleventyConfig.addPassthroughCopy("src/favicon*");
+  eleventyConfig.addPassthroughCopy("src/notes/images");
 
-  eleventyConfig.addFilter('console', function(value) {
+  eleventyConfig.addFilter('console', function (value) {
     const str = util.inspect(value);
     return `<div style="white-space: pre-wrap;">${unescape(str)}</div>;`
   });
 
-  eleventyConfig.addCollection("tagsList", function(collectionApi) {
+  eleventyConfig.addCollection("tagsList", function (collectionApi) {
     const tagsList = new Set();
     const tagCount = {}
-    collectionApi.getAll().map( item => {
-        if (item.data.tags) {
-          item.data.tags.map( tag => {
-            tagsList.add(tag)
-            tagCount[tag] = (tagCount[tag] || 0) + 1 
-          })  
-        }
+    collectionApi.getAll().map(item => {
+      if (item.data.tags) {
+        item.data.tags.map(tag => {
+          tagsList.add(tag)
+          tagCount[tag] = (tagCount[tag] || 0) + 1
+        })
+      }
     });
 
     const c = [];
-    tagsList.forEach( tag => {
-      c.push({name: tag, count: tagCount[tag]})
+    tagsList.forEach(tag => {
+      c.push({ name: tag, count: tagCount[tag] })
     });
 
     c.sort((a, b) => {
@@ -43,12 +44,12 @@ module.exports = function (eleventyConfig) {
     return c;
   });
 
-  eleventyConfig.addNunjucksFilter("tagsSortByCount", function(tags) {
+  eleventyConfig.addNunjucksFilter("tagsSortByCount", function (tags) {
     tags.sort((a, b) => a.count - b.count);
     return tags
   });
 
-  eleventyConfig.addNunjucksFilter("take", function(tags, arg) {
+  eleventyConfig.addNunjucksFilter("take", function (tags, arg) {
     return tags.slice(0, arg);
   });
 
