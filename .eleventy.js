@@ -6,7 +6,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
 
   eleventyConfig.addPassthroughCopy("src/favicon*");
-  eleventyConfig.addPassthroughCopy("src/notes/images");
+  // eleventyConfig.addPassthroughCopy({ "src/notes/**/*.jpg": "/" });
+  // eleventyConfig.addPassthroughCopy("src/notes/**/*.jpg");
+  eleventyConfig.addPassthroughCopy({ "src/notes/qu4rtz-blade/qr.jpg": "/qu4rtz-blade/qr.jpg" });
 
   eleventyConfig.addFilter('console', function (value) {
     const str = util.inspect(value);
