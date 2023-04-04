@@ -1,6 +1,7 @@
 ---
 title: How to Reset MySQL Auto-Increment Values
 permalink: /reset-mysql-auto-increment-value/
+codeHighlighting: true
 tags:
   - mysql
   - sql

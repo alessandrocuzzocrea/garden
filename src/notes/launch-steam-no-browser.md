@@ -1,6 +1,7 @@
 ---
 title: Launch Steam without Browser
 permalink: /launch-steam-no-browser/
+codeHighlighting: true
 tags:
   - steam
   - performance
