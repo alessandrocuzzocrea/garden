@@ -61,3 +61,11 @@ Website: [https://unrealengine.jp/unrealfest/](https://unrealengine.jp/unrealfes
 Twitter [@UnrealEngineJP](https://twitter.com/UnrealEngineJP)
 
 Location: [Bellesalle Akihabara - ベルサール秋葉原](https://www.bellesalle.co.jp/shisetsu/tokyo/bs_akihabara/)
+
+## Game Tools & Middleware Forum 2023
+
+Website: [https://gtmf.jp/2023/](https://gtmf.jp/2023/)
+
+Twitter [@GTMF_official](https://twitter.com/GTMF_official)
+
+Location: [Osaka: Congres Convention Center](https://www.congre-cc.jp) – [Tokyo: 秋葉原UDX GALLERY NEXT THEATER](https://udx-akibaspace.jp/gallery-n/)
