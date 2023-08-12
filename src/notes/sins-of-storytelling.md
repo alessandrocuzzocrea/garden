@@ -20,7 +20,7 @@ tags:
 
 7. **Lack of Conflict**: Conflict drives narrative. A story without challenges, stakes, or obstacles can feel stagnant.
 
-8. **Info Dumping**: As discussed in the previous questions, dropping large chunks of information, especially early on, can overwhelm or bore the reader.
+8. **Info Dumping**: Dropping large chunks of information, especially early on, can overwhelm or bore the reader.
 
 9. **Poor Pacing**: Whether it's too fast and feels rushed or too slow and feels drawn out, pacing can greatly impact the engagement and enjoyment of a story.
 
