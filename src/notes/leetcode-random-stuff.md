@@ -3,6 +3,7 @@ title: Leetcode Rando Stuff
 permalink: /leetcode-random-stuff/
 tags: 
   - coding
+  - algorithm
   - leetcode
 ---
 # Midpoint
@@ -26,6 +27,6 @@ class Solution:
         return -1
 ```
 
-Q: # WHY DO WE CALC THE MID POINT LIKE THIS? WHY NOT (lo - hi)//2 ?
+Q: Why do we find the middle point like this? Why not (lo - hi)//2 ?
 
-A: Finding the midpoint between any two numbers is the same as finding the average between them. Add the numbers and divide by two.
+A: We find the middle point by adding the low (lo) and high (hi) numbers together and then dividing by 2. This is because when you add them together, you get the total of the two numbers. When you divide that total by 2, you get the point right in the middle of them. If we did (lo - hi)//2, we might get a wrong number because we're taking one number away from the other, instead of finding the point in between them.
