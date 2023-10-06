@@ -1,6 +1,7 @@
 ---
 title: Leetcode Rando Stuff
 permalink: /leetcode-random-stuff/
+codeHighlighting: true
 tags: 
   - coding
   - algorithm
