@@ -14,3 +14,5 @@ tags:
 - Save the changes.
 - Turn your hotspot off and then back on.
 - (Optional) Restart your phone if the hotspot still doesn’t work.
+
+![Android APN Settings](android-apn-settings.jpg)
