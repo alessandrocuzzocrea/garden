@@ -7,7 +7,7 @@ tags:
   - algorithm
   - leetcode
 ---
-# Midpoint
+## Midpoint
 
 ```python
 class Solution:

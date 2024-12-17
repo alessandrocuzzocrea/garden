@@ -6,7 +6,7 @@ tags:
   - programming
   - cool
 ---
-# TIC-80
+## What's TIC-80?
 
 TIC-80 is an open-source fantasy console for creating and sharing small games.
 
