@@ -1,6 +1,6 @@
 ---
 title: How to Fix Your Android Phone Hotspot
-permalink: /fix-android-phone-hotspot/
+permalink: /fix-android-hotspot/
 tags:
   - android
   - phone

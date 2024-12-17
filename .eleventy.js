@@ -7,6 +7,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("src/favicon*");
   eleventyConfig.addPassthroughCopy({ "src/notes/qu4rtz-blade/*.jpg": "/qu4rtz-blade" }); // couldn't find a better solution
+  eleventyConfig.addPassthroughCopy({ "src/notes/fix-android-hotspot/*.jpg": "/fix-android-hotspot" }); // this f sucks
 
   eleventyConfig.addFilter('console', function (value) {
     const str = util.inspect(value);
