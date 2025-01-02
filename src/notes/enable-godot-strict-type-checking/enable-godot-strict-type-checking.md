@@ -11,7 +11,7 @@ These settings help enforce better coding practices by notifying you of untyped 
 
 - Open your Godot project.  
 - Navigate to **Project** > **Project Settings** in the top menu.  
-- In the Project Settings window, enable **Advanced Settings** by clicking the gear icon and selecting **Show Advanced Settings**.  
+- In the Project Settings window, enable **Advanced Settings** by clicking the gear icon.  
 - Go to **Debug** > **GDScript** in the left-hand menu.  
 - Adjust the following settings to control the strictness of type checking:  
   - **Untyped Declaration**: Set to either `Warning` or `Error`.  
