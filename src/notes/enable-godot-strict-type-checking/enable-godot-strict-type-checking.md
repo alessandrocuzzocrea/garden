@@ -17,4 +17,3 @@ These settings help enforce better coding practices by notifying you of untyped 
   - **Untyped Declaration**: Set to either `Warning` or `Error`.  
 - (Optional) Explore other settings in the **Debug** > **GDScript** category to further customize script debugging behavior.  
 - Click **Close** to save your changes.  
-
