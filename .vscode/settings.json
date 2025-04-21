@@ -1,10 +1,7 @@
 {
   "gitdoc.enabled": true,
   "gitdoc.filePattern": "**/*.md",
-  "cSpell.words": [
-    "gamedev",
-    "gameplay",
-    "misattribution",
-    "playtesting"
-  ],
+  "cSpell.words": ["gamedev", "gameplay", "misattribution", "playtesting"],
+  "editor.formatOnSave": true,
+  "files.autoSave": "off"
 }
