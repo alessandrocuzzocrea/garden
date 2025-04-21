@@ -18,7 +18,8 @@
 			"esbenp.prettier-vscode",
 			"ms-azuretools.vscode-docker",
 			"GitHub.copilot",
-			"EditorConfig.EditorConfig"
+			"EditorConfig.EditorConfig",
+			"sleistner.vscode-fileutils"
 		]
 	  }
 	}
