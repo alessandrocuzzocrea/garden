@@ -1,20 +1,23 @@
 ---
 layout: main.njk
 ---
+
 <main>
-  <article>
-    <h1>{{ title }}</h1>
-    <p>
-    Tags:
-    {% set comma = joiner() %}
+  <h1>{{ title }}</h1>
+  <p>
+    Tags: {% set comma = joiner() %}
     {% for tag in tags -%}
-      {{ comma() }} <span class="tag"><a href="/tags/{{ tag }}/">{{ tag }}</a></span>
+      {{ comma() }}
+      <span class="tag">
+        <a href="/tags/{{ tag }}/">{{ tag }}</a>
+      </span>
     {%- endfor %}
-    </p>
-    <p>
-      Last Updated on <i>{{ page.date.toUTCString() }}</i> - 
-      <a href="https://github.com/alessandrocuzzocrea/garden/blob/main/{{ page.inputPath }}">Edit Page</a>
-    </p>
-    {{ content | safe }}
-  </article>
+  </p>
+  <p>
+    Last Updated on
+    <i>{{ page.date.toUTCString() }}</i>
+    -
+    <a href="https://github.com/alessandrocuzzocrea/garden/blob/main/{{ page.inputPath }}">Edit Page</a>
+  </p>
+  {{ content | safe }}
 </main>

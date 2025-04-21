@@ -15,10 +15,11 @@
     <meta name="robots" content="noindex">
     <meta name="generator" content="{{ eleventy.generator }}">
     <title>{{ title or site.title }}</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.min.css">
     {% if codeHighlighting -%}
       <link href="https://unpkg.com/prismjs@1.29.0/themes/prism-okaidia.min.css" rel="stylesheet">
     {% endif -%}
-    <style>
+    {# <style>
       body {
         background-color: #f8f8f2;
         color: #272822;
@@ -61,7 +62,7 @@
           color: #fff;
         }
       }
-    </style>
+    </style> #}
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/favicon-16x16.png" sizes="16x16" type="image/png">
     <link rel="icon" href="/favicon-32x32.png" sizes="32x32" type="image/png">
