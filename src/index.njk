@@ -3,21 +3,20 @@ title:
 layout: main
 eleventyExcludeFromCollections: true
 ---
+
 <h1>{{ site.title }}</h1>
 <h2>🎄Welcome to my Digital Garden!🎄</h2>
 Recently updated:
 <ul>
-{%- for note in collections.all | reverse | take(10) -%}
-  <li>
-    <a href="{{ note.data.permalink }}">{{ note.data.title }}</a>
-  </li>
-{%- endfor -%}
+  {%- for note in collections.all | reverse | take(10) -%}
+    <li>
+      <a href="{{ note.data.permalink }}">{{ note.data.title }}</a>
+    </li>
+  {%- endfor -%}
 </ul>
-Popular tags:
-<ul>
+<p>Popular tags:</p>
 {% for tag in collections.tagsList | tagsSortByCount | reverse | take(10) %}
-  <li>
-    <a href="/tags/{{ tag.name }}/">{{ tag.name }}({{ tag.count }})</a>
-  </li>
+  <a href="/tags/{{ tag.name }}/">{{ tag.name }} ({{ tag.count }})</a>
+  {% if not loop.last %},
+  {% endif %}
 {% endfor %}
-</ul>

@@ -1,27 +1,27 @@
 {
-	"name": "Alessandro Digital Garden",
-	"build": {
-	  "dockerfile": "Dockerfile"
-	},
-	"postCreateCommand": "npm install",
-	"forwardPorts": [8080],
-	"portsAttributes": {
-	  "8080": {
-		"label": "Eleventy Server",
-		"onAutoForward": "openBrowser"
-	  }
-	},
-	"customizations": {
-	  "vscode": {
-		"extensions": [
-			"dbaeumer.vscode-eslint",
-			"esbenp.prettier-vscode",
-			"ms-azuretools.vscode-docker",
-			"GitHub.copilot",
-			"EditorConfig.EditorConfig",
-			"sleistner.vscode-fileutils"
-		]
-	  }
-	}
+  "name": "Alessandro Digital Garden",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "postCreateCommand": "npm install",
+  "forwardPorts": [8080],
+  "portsAttributes": {
+    "8080": {
+      "label": "Eleventy Server",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "ms-azuretools.vscode-docker",
+        "GitHub.copilot",
+        "EditorConfig.EditorConfig",
+        "sleistner.vscode-fileutils",
+        "eseom.nunjucks-template"
+      ]
+    }
   }
-  
+}
