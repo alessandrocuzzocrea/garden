@@ -14,8 +14,11 @@
 	"customizations": {
 	  "vscode": {
 		"extensions": [
-		  "dbaeumer.vscode-eslint",
-		  "esbenp.prettier-vscode"
+			"dbaeumer.vscode-eslint",
+			"esbenp.prettier-vscode",
+			"ms-azuretools.vscode-docker",
+			"GitHub.copilot",
+			"EditorConfig.EditorConfig"
 		]
 	  }
 	}
