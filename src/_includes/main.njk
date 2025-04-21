@@ -29,7 +29,7 @@
         padding-left: 16px;
         padding-right: 16px;
       }
-      @media only screen and (min-width: 768px) {
+      @media only screen and(min-width: 768px) {
         body {
           margin: 0 auto;
           width: 720px;
@@ -45,7 +45,7 @@
         padding: 4px 5px 6px;
         white-space: nowrap;
       }
-      @media (prefers-color-scheme: dark) {
+      @media(prefers-color-scheme: dark) {
         body {
           background-color: #272822;
           color: #f8f8f2;
@@ -68,15 +68,19 @@
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
   </head>
   <body>
-    {% if site.cse %}
-      <script async src="https://cse.google.com/cse.js?cx=06888cfbc14614589"></script>
-      <div class="gcse-search"></div>
+    {% if false %}
+      {% if site.cse %}
+        <script async src="https://cse.google.com/cse.js?cx=06888cfbc14614589"></script>
+        <div class="gcse-search"></div>
+      {% endif %}
     {% endif %}
     <header>
       <p>
-        <a href="/">Home</a> · 
-      <a href="/tags/">Tags</a> · 
-      <a href="https://github.com/alessandrocuzzocrea/garden">Source Code</a>
+        <a href="/">Home</a>
+        ·
+        <a href="/tags/">Tags</a>
+        ·
+        <a href="https://github.com/alessandrocuzzocrea/garden">Source Code</a>
       </p>
       <hr>
     </header>
@@ -84,7 +88,8 @@
     <footer>
       <hr>
       <p>
-        © <a href="https://alessandrocuzzocrea.com" target="_blank" rel="noopener noreferrer">Alessandro Cuzzocrea</a>
+        ©
+        <a href="https://alessandrocuzzocrea.com" target="_blank" rel="noopener noreferrer">Alessandro Cuzzocrea</a>
       </p>
     </footer>
   </body>
