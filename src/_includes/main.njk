@@ -4,15 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {% if false %}
-      {% if noindex -%}
-        <meta name="robots" content="noindex">
-      {% else -%}
-        <meta name="robots" content="index, follow">
-        <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-      {% endif -%}
-    {% endif %}
-    <meta name="robots" content="noindex">
+    {% if noindex -%}
+      <meta name="robots" content="noindex">
+    {% else -%}
+      <meta name="robots" content="index, follow">
+      <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+    {% endif -%}
     <meta name="generator" content="{{ eleventy.generator }}">
     <title>{{ title or site.title }}</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.min.css"> <style>:root
@@ -23,50 +20,6 @@
   {% if codeHighlighting -%}
     <link href="https://unpkg.com/prismjs@1.29.0/themes/prism-okaidia.min.css" rel="stylesheet">
   {% endif -%}
-  {# <style>
-                    body {
-                      background-color: #f8f8f2;
-                      color: #272822;
-                      font-family: Helvetica, Arial, sans-serif;
-                      font-size: 18px;
-                      font-weight: 400;
-                      line-height: 1.6;
-                      padding-left: 16px;
-                      padding-right: 16px;
-                    }
-                    @media only screen and(min-width: 768px) {
-                      body {
-                        margin: 0 auto;
-                        width: 720px;
-                      }
-                    }
-                    li {
-                      margin: 16px;
-                    }
-                    code {
-                      background-color: #272822;
-                      color: #f8f8f2;
-                      border-radius: 0.3em;
-                      padding: 4px 5px 6px;
-                      white-space: nowrap;
-                    }
-                    @media(prefers-color-scheme: dark) {
-                      body {
-                        background-color: #272822;
-                        color: #f8f8f2;
-                      }
-                      code {
-                        background-color: #f8f8f2;
-                        color: #272822;
-                      }
-                      a {
-                        color: #fff;
-                      }
-                      a:visited {
-                        color: #fff;
-                      }
-                    }
-                  </style> #}
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="icon" href="/favicon-16x16.png" sizes="16x16" type="image/png">
   <link rel="icon" href="/favicon-32x32.png" sizes="32x32" type="image/png">
