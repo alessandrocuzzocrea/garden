@@ -5,11 +5,14 @@ permalink: "/tags/"
 eleventyExcludeFromCollections: true
 noindex: true
 ---
-<h1>{{ title }}</h1>
-<ul>
-{% for tag in collections.tagsList %}
-  <li>
-    <a href="/tags/{{ tag.name }}/">{{ tag.name }}({{ tag.count }})</a>
-  </li>
-{% endfor %}
-</ul>
+
+<main>
+  <h1>{{ title }}</h1>
+  <ul>
+    {% for tag in collections.tagsList %}
+      <li>
+        <a href="/tags/{{ tag.name }}/">{{ tag.name }}({{ tag.count }})</a>
+      </li>
+    {% endfor %}
+  </ul>
+</main>
