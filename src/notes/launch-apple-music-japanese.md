@@ -1,6 +1,6 @@
 ---
 title: Powershell script to Lunch Apple Music in Japanese (Windows)
-permalink: /launch-apple-music-japanese/
+permalink: /launch-apple-music-japanese-windows/
 codeHighlighting: true
 tags:
   - powershell
