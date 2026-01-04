@@ -14,7 +14,7 @@ The idea is to let light do the heavy lifting.
 Brightness ramps up slowly, and the color temperature shifts from warm amber to cold blue, roughly matching a real sunrise. 
 The goal isn't to *shock* you awake, but to give your brain enough signals that waking up *happens gradually*.
 
-Paired with a consistent bedtime, it makes waking up *way easier*.
+I'm a **deep sleeper** and a **night owl**, so I find that when this is paired with a consistent bedtime, it makes waking up *way easier*.
 
 Here are my settings:
 
