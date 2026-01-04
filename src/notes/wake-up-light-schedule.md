@@ -12,6 +12,8 @@ A **gradual wake-up light routine** I use to fake a sunrise alarm clock with sma
 
 The idea is to let light do the heavy lifting. Brightness ramps up slowly, and the color temperature shifts from warm amber to cold blue, roughly matching a real sunrise. The goal isn’t to *shock* you awake, but to give your brain enough signals that waking up *happens gradually*.
 
+This won’t magically fix bad sleep habits, but paired with a consistent bedtime, it makes waking up *way easier*.
+
 Here are my settings:
 
 | Time to Alarm | Brightness | Color Temp | What It’s Doing                                                                                        |
@@ -22,5 +24,3 @@ Here are my settings:
 | -15 min       | 60%        | 5000K      | **Bright sky** — crisp white. Mimics morning daylight and helps kickstart cortisol.                    |
 | -5 min        | 90%        | 7500K      | **Alertness spike** — blue-white light. Enough to break through heavy sleep.                           |
 | 0 min         | 100%       | 9000K      | **Final wake-up** — full blast, cold blue. At this point, staying asleep feels harder than getting up. |
-
-This won’t magically fix bad sleep habits, but paired with a consistent bedtime, it makes waking up *way easier*.
