@@ -6,7 +6,7 @@ eleventyExcludeFromCollections: true
 
 <main>
   <h1>🎄 {{ site.title }} 🎄</h1>
-  <h3>Welcome to my Digital Garden!</h3>
+  <h3>Welcome to my digital garden!</h3>
   <p>Recently updated:</p>
   <ul>
     {%- for note in collections.all | reverse | take(10) -%}
