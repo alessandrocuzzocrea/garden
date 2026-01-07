@@ -19,6 +19,10 @@ tags:
 - [Super Bunnyhop](https://www.youtube.com/@bunnyhopshow)
 - [Writing on Games](https://www.youtube.com/@WritingOnGames)
 
+## Gamedev
+
+- [Timothy Cain](https://www.youtube.com/@CainOnGames) - fallout og creator
+
 ## Coding n stuff
 
 - [100th Coin](https://www.youtube.com/@100thCoin)
