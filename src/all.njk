@@ -1,0 +1,20 @@
+---
+layout: main
+title: All Pages
+permalink: "/all/"
+eleventyExcludeFromCollections: true
+---
+
+<main>
+  <h1>{{ title }}</h1>
+  {%- for group in collections.all | groupByFirstLetter -%}
+    <h2>{{ group.letter }}</h2>
+    <ul>
+      {%- for note in group.items -%}
+        <li>
+          <a href="{{ note.url }}">{{ note.data.title or note.url }}</a>
+        </li>
+      {%- endfor -%}
+    </ul>
+  {%- endfor -%}
+</main>

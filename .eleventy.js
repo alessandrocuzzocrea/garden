@@ -59,6 +59,34 @@ module.exports = function (eleventyConfig) {
   //   return content.substr(0, content.lastIndexOf(" ", 200)) + "...";
   // });
 
+  eleventyConfig.addFilter("groupByFirstLetter", function (collection) {
+    const sorted = collection.slice().sort((a, b) => {
+      const titleA = (a.data.title || a.url || "").toUpperCase();
+      const titleB = (b.data.title || b.url || "").toUpperCase();
+      return titleA.localeCompare(titleB);
+    });
+
+    const grouped = {};
+    sorted.forEach(item => {
+      const title = (item.data.title || item.url || "").trim();
+      if (!title) return;
+
+      let letter = title.charAt(0).toUpperCase();
+      if (!/[A-Z]/.test(letter)) {
+        letter = "#";
+      }
+
+      if (!grouped[letter]) {
+        grouped[letter] = [];
+      }
+      grouped[letter].push(item);
+    });
+
+    return Object.keys(grouped).sort().map(key => {
+      return { letter: key, items: grouped[key] };
+    });
+  });
+
   return {
     dir: {
       input: "src",
