@@ -7,6 +7,7 @@ tags:
 ---
 ## Gaming
 
+- [/noclip](https://www.youtube.com/@NoclipDocs)
 - [Dungeon Chill](https://www.youtube.com/@dungeonchill) - obscure retro video game essays
 - [Gaming Historian](https://www.youtube.com/@GamingHistorian)
 - [I Finished A Video Game](https://www.youtube.com/@IFinishedAVideoGame) - long and deep essays
@@ -16,3 +17,4 @@ tags:
 - [NakeyJakey](https://www.youtube.com/@NakeyJakey)
 - [Noah Caldwell-Gervais](https://www.youtube.com/@NoahCaldwellGervais)
 - [Super Bunnyhop](https://www.youtube.com/@bunnyhopshow)
+- [Writing on Games](https://www.youtube.com/@WritingOnGames)
