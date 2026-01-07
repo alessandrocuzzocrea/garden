@@ -1,5 +1,5 @@
 ---
-title: Favorite YouTube Channels
+title: Favorite YouTube Channels 📺
 permalink: /fave-youtube/
 tags: 
   - video-games
