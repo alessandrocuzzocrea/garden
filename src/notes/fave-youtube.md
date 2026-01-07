@@ -18,3 +18,10 @@ tags:
 - [Noah Caldwell-Gervais](https://www.youtube.com/@NoahCaldwellGervais)
 - [Super Bunnyhop](https://www.youtube.com/@bunnyhopshow)
 - [Writing on Games](https://www.youtube.com/@WritingOnGames)
+
+## Coding n stuff
+
+- [100th Coin](https://www.youtube.com/@100thCoin)
+- [Modern Vintage Gamer](https://www.youtube.com/@ModernVintageGamer)
+- [NesHacker](https://www.youtube.com/@NesHacker)
+- [Retro Game Mechanics Explained](https://www.youtube.com/@RGMechEx)
