@@ -23,5 +23,6 @@ tags:
 
 - [100th Coin](https://www.youtube.com/@100thCoin)
 - [Modern Vintage Gamer](https://www.youtube.com/@ModernVintageGamer)
+- [Nathan Baggs](https://www.youtube.com/@nathanbaggs/) - reverse engineering, c++, etc
 - [NesHacker](https://www.youtube.com/@NesHacker)
 - [Retro Game Mechanics Explained](https://www.youtube.com/@RGMechEx)
