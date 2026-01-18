@@ -26,6 +26,7 @@ tags:
 ## Coding n stuff
 
 - [100th Coin](https://www.youtube.com/@100thCoin)
+- [MattKC - YouTube](https://www.youtube.com/@MattKC/videos)
 - [Modern Vintage Gamer](https://www.youtube.com/@ModernVintageGamer)
 - [Nathan Baggs](https://www.youtube.com/@nathanbaggs/) - reverse engineering, c++, etc
 - [NesHacker](https://www.youtube.com/@NesHacker)
