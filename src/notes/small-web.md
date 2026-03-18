@@ -30,3 +30,4 @@ Here are some places to find them.
 
 - [What is the Small Web? – Aral Balkan](https://ar.al/2020/08/07/what-is-the-small-web/)
 - [IndieWeb](https://indieweb.org/)
+- [Resources List for the Personal Web - Community Wiki - 32-Bit Cafe](https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49)
