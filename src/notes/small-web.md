@@ -6,14 +6,13 @@ tags:
   - internet
   - cool
 ---
-
 I'm getting really fed up with the corporate internet.  
 It's killing the joy.
 
 I miss the good old days when surfing the web actually meant *discovering* cool shit.  
 
-The small web is where it still exists.  
-Here are some places to find it.  
+A few people refused to let it die.  
+Here are some places to find them.
 
 ## Discovery
 
