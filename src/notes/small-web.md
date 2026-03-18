@@ -10,7 +10,7 @@ tags:
 I'm getting really fed up with the corporate internet.  
 It's killing the joy.
 
-I miss the good old days when surfing the web actually meant *discovering* random, personal, interesting sites.  
+I miss the good old days when surfing the web actually meant *discovering* cool shit.  
 
 The small web is where it still exists.  
 Here are some places to find it.  
