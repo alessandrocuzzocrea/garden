@@ -39,6 +39,14 @@ Twitter [@KONAMI573ch](https://twitter.com/KONAMI573ch)
 
 Location: [KONAMI CREATIVE CENTER GINZA (コナミクリエイティブセンター銀座)](https://www.konami.com/ginza/#accessSection)
 
+## Tokyo Game Dungeon (東京ゲームダンジョン)
+
+Website: [https://tokyogamedungeon.com](https://tokyogamedungeon.com)
+
+Twitter: [@TG_Dungeon](https://twitter.com/TG_Dungeon)
+
+Location: [東京都立産業貿易センター 浜松町館 - Tokyo](https://www.sanbo.metro.tokyo.lg.jp/hamamatsucho/)
+
 ## Tokyo Indies
 
 Website: [https://www.tokyoindies.com](https://www.tokyoindies.com)
