@@ -6,6 +6,7 @@ tags:
   - japan
 ---
 ## BitSummit
+
 Website: [https://www.bitsummit.org](https://www.bitsummit.org)
 
 Twitter: [@bitsummitjp](https://twitter.com/bitsummitjp)
@@ -13,14 +14,6 @@ Twitter: [@bitsummitjp](https://twitter.com/bitsummitjp)
 Location: [Miyako Messe Exhibition Center - Kyoto](https://www.miyakomesse.jp/access/)
 
 Blog Post: [BitSummit 2019: My Experience Participating in Japan's Largest Indie Game Show as a Volunteer](https://alessandrocuzzocrea.com/bitsummit-2019/)
-
-## Tokyo Indies
-
-Website: [https://www.tokyoindies.com](https://www.tokyoindies.com)
-
-Twitter: [@tokyo_indies](https://twitter.com/tokyo_indies)
-
-Location: [Akihabara MOGRA](https://club-mogra.jp/access/)
 
 ## Digital Games Expo (デジゲー博)
 
@@ -30,13 +23,13 @@ Twitter [@DigiGameExpo](https://twitter.com/DigiGameExpo)
 
 Location: [Akiba Square - 秋葉原UDX アキバ・スクエア＆UDXギャラリー](https://udx-akibaspace.jp/akibasquare/)
 
-## TOKYO SANDBOX
+## Game Tools & Middleware Forum 2023
 
-Website: [https://www.tokyosandbox.com](https://www.tokyosandbox.com)
+Website: [https://gtmf.jp/2023/](https://gtmf.jp/2023/)
 
-Twitter [@TokyoSandbox](https://twitter.com/TokyoSandbox)
+Twitter [@GTMF_official](https://twitter.com/GTMF_official)
 
-Location: [Bellesalle Akihabara - ベルサール秋葉原](https://www.bellesalle.co.jp/shisetsu/tokyo/bs_akihabara/)
+Location: [Osaka: Congres Convention Center](https://www.congre-cc.jp) – [Tokyo: 秋葉原UDX GALLERY NEXT THEATER](https://udx-akibaspace.jp/gallery-n/)
 
 ## Indie Games Connect (IGC)
 
@@ -46,6 +39,14 @@ Twitter [@KONAMI573ch](https://twitter.com/KONAMI573ch)
 
 Location: [KONAMI CREATIVE CENTER GINZA (コナミクリエイティブセンター銀座)](https://www.konami.com/ginza/#accessSection)
 
+## Tokyo Indies
+
+Website: [https://www.tokyoindies.com](https://www.tokyoindies.com)
+
+Twitter: [@tokyo_indies](https://twitter.com/tokyo_indies)
+
+Location: [Akihabara MOGRA](https://club-mogra.jp/access/)
+
 ## TOKYO INDIE GAMES SUMMIT
 
 Website: [https://indiegamessummit.tokyo/en/](https://indiegamessummit.tokyo/en/)
@@ -54,6 +55,14 @@ Twitter [@TOKYO_IGS](https://twitter.com/TOKYO_IGS)
 
 Location: [Musashino Public Hall, Kichijoji REI Hotel, Tokyo (武蔵野公会堂)](https://www.musashino.or.jp/koukaido/)
 
+## TOKYO SANDBOX
+
+Website: [https://www.tokyosandbox.com](https://www.tokyosandbox.com)
+
+Twitter [@TokyoSandbox](https://twitter.com/TokyoSandbox)
+
+Location: [Bellesalle Akihabara - ベルサール秋葉原](https://www.bellesalle.co.jp/shisetsu/tokyo/bs_akihabara/)
+
 ## UNREAL FEST TOKYO
 
 Website: [https://unrealengine.jp/unrealfest/](https://unrealengine.jp/unrealfest/)
@@ -61,11 +70,3 @@ Website: [https://unrealengine.jp/unrealfest/](https://unrealengine.jp/unrealfes
 Twitter [@UnrealEngineJP](https://twitter.com/UnrealEngineJP)
 
 Location: [Bellesalle Akihabara - ベルサール秋葉原](https://www.bellesalle.co.jp/shisetsu/tokyo/bs_akihabara/)
-
-## Game Tools & Middleware Forum 2023
-
-Website: [https://gtmf.jp/2023/](https://gtmf.jp/2023/)
-
-Twitter [@GTMF_official](https://twitter.com/GTMF_official)
-
-Location: [Osaka: Congres Convention Center](https://www.congre-cc.jp) – [Tokyo: 秋葉原UDX GALLERY NEXT THEATER](https://udx-akibaspace.jp/gallery-n/)
