@@ -1,6 +1,6 @@
 ---
-title: Reverse Engineering Octopath Traveler's Field Steal Rates
-permalink: /reverse-engineering-octopath-travelers-therion-field-steal-rates/
+title: Reverse Engineering Therion's Steal Success Rate in Octopath Traveler
+permalink: /reverse-engineering-octopath-traveler-therion-steal-success-rate/
 tags:
   - game-dev
   - reverse-engineering
