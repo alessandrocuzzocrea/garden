@@ -2,6 +2,6 @@
 
 ## License
 
-© 2026 Alessandro Cuzzocrea. All rights reserved. This content may not be reproduced or used without permission.
+© Alessandro Cuzzocrea. All rights reserved. This content may not be reproduced or used without permission.
 
 See [LICENSE](LICENSE).
