@@ -1,6 +1,7 @@
 {
   "name": "garden",
   "version": "1.0.0",
+  "private": true,
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,8 +14,11 @@
     "url": "git+https://github.com/alessandrocuzzocrea/garden.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "Alessandro Cuzzocrea",
+    "url": "https://alessandrocuzzocrea.com"
+  },
+  "license": "SEE LICENSE IN LICENSE",
   "bugs": {
     "url": "https://github.com/alessandrocuzzocrea/garden/issues"
   },
